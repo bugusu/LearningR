@@ -1,5 +1,5 @@
-# When a conflict happens
-10
+#Here`s an example of a conflict.
+
 
 # R basics ----------------------------------------------------------------
 
@@ -18,6 +18,5 @@ summary(airquality)
 
 #testing
 
-#Here`s an example of a conflict.
 
 `
