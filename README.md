@@ -1,5 +1,5 @@
 Busra Gultekin SUbasi 
-This is a test of GitHub pull.
+This is a test of GitHub blahhblahh.
 TODO: Add more to the title of your project here
 
 # LearningR:
