@@ -16,3 +16,7 @@ summary(airquality)
 2 + 2
 
 #testing
+
+#Here`s an example of a conflict.
+
+`
