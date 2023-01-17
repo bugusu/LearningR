@@ -1,4 +1,5 @@
 # Contents of doc folder
+This is a test of github push. 
 
 This folder should contain the main scientific product of the project
 as well as all other files related to it (e.g. co-author comments,
