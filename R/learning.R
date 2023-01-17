@@ -1,4 +1,4 @@
-# When a conflict happens.
+# When a conflict happens
 10
 
 # R basics ----------------------------------------------------------------
