@@ -1,4 +1,5 @@
 Busra Gultekin SUbasi 
+This is a test of GitHub pull.
 TODO: Add more to the title of your project here
 
 # LearningR:
